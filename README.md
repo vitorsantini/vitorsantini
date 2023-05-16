@@ -1,5 +1,12 @@
 <h1 align="center"> Oii, Seja bem vindo(a) ao meu Github! 😁</h1>
-<h2 align="center"> ⭐ Eu sou o  Vitor e esses são os meus projetos ⭐</h2>
+<h2 align="center"> ⭐ Eu sou o Vitor! ⭐</h2>
+
+<p align="center"> 🧑‍💻 Desenvolvedor em Formação <br>
+    📌 Tenho o objetivo de me tornar um Desenvolvedor Full Stack <br>
+    📌 Atualmente faço parte do Desenvolve 2023
+ </p>
+
+##
 
  <div align="center">
   <a href="https://github.com/vitorsantini">
