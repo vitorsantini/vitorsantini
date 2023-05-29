@@ -3,7 +3,7 @@
 
 <p align="center"> 🧑‍💻 Desenvolvedor em Formação <br>
     📌 Tenho o objetivo de me tornar um Desenvolvedor Full Stack <br>
-    📌 Atualmente faço parte do Desenvolve 2023
+    📌 Atualmente faço parte do Programa Desenvolve 2023
  </p>
 
 ##
